@@ -10,9 +10,9 @@
 
 
 ## Extractive summarization
-[Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://aclanthology.org/N18-1158/)
+[Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://aclanthology.org/N18-1158/) (Supervised, Reinforce algorithm)
 
-[SummCoder: An unsupervised framework for extracive text summarization based on deep auto-encoders](https://www.sciencedirect.com/science/article/pii/S0957417419302192)
+[SummCoder: An unsupervised framework for extracive text summarization based on deep auto-encoders](https://www.sciencedirect.com/science/article/pii/S0957417419302192) (Unsupervised, Auto-encoder)
 
 
 
