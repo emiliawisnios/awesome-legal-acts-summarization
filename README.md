@@ -1,4 +1,4 @@
-# Legal Acts Summarization
+# Summarization
 
 
 ## Abstractive summarization papers
